@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690425428957",
+    "project_id": "fatec-manha-loja-cafe-2022",
+    "storage_bucket": "fatec-manha-loja-cafe-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690425428957:android:6a61434885c7209e0c1434",
+        "android_client_info": {
+          "package_name": "com.example.app07_loja_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690425428957-keqnltuk90i1iepdo3cekc686296ii8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltWhyNRFpdcqgXiOsQ9RJu20FHpe_mi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690425428957-keqnltuk90i1iepdo3cekc686296ii8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
